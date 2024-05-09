@@ -2,7 +2,7 @@
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuraraujo0&theme=github_dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuraraujo0)](https://github.com/arthuraraujo0/github-readme-stats)
 
 
 ### Tecnologias que eu uso
